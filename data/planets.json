@@ -1,0 +1,114 @@
+{
+   "Cosmic Dew": {
+      "type": "X",
+      "position": [
+         1608,
+         1491
+      ]
+   },
+   "Proxima Centauri": {
+      "type": "Star",
+      "position": [
+         395,
+         1520
+      ]
+   },
+   "Asgard": {
+      "type": "Planet",
+      "position": [
+         1207,
+         795
+      ]
+   },
+   "Kepler 16-b": {
+      "type": "Planet",
+      "position": [
+         628,
+         269
+      ]
+   },
+   "TYC 8998-760-1 b": {
+      "type": "Planet",
+      "position": [
+         1017,
+         1051
+      ]
+   },
+   "GJ 15 A c": {
+      "type": "Planet",
+      "position": [
+         889,
+         1436
+      ]
+   },
+   "WASP 12-b": {
+      "type": "Planet",
+      "position": [
+         595,
+         980
+      ]
+   },
+   "Black Hole A": {
+      "type": "Black Hole",
+      "position": [
+         807,
+         919
+      ]
+   },
+   "Black Hole B": {
+      "type": "Black Hole",
+      "position": [
+         594,
+         1136
+      ]
+   },
+   "Black Hole C": {
+      "type": "Black Hole",
+      "position": [
+         1794,
+         527
+      ]
+   },
+   "Black Hole D": {
+      "type": "Black Hole",
+      "position": [
+         824,
+         912
+      ]
+   },
+   "Sirius": {
+      "type": "Star",
+      "position": [
+         1509,
+         971
+      ]
+   },
+   "Ross 154": {
+      "type": "Star",
+      "position": [
+         1476,
+         266
+      ]
+   },
+   "Betelgeuse": {
+      "type": "Supergiant Star",
+      "position": [
+         877,
+         736
+      ]
+   },
+   "Rigel": {
+      "type": "Supergiant Star",
+      "position": [
+         1197,
+         1733
+      ]
+   },
+   "Vega": {
+      "type": "Star",
+      "position": [
+         464,
+         403
+      ]
+   }
+}

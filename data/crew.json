@@ -1,0 +1,899 @@
+{
+    "crew1": {
+        "members": [
+            "Joel",
+            "Drake",
+            "Hillary Clinton",
+            "Rico Rodriguez"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 33,
+        "weapon": {
+            "attack": 12,
+            "range": 43
+        },
+        "radar": 87,
+        "position": [
+            1760,
+            259
+        ],
+        "status": "Active"
+    },
+    "crew2": {
+        "members": [
+            "Sad gaming cat",
+            "Your FBI Agent",
+            "John Cena",
+            "Professor X"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 47,
+        "weapon": {
+            "attack": 15,
+            "range": 41
+        },
+        "radar": 94,
+        "position": [
+            853,
+            920
+        ],
+        "status": "Active"
+    },
+    "crew3": {
+        "members": [
+            "Morgan Freeman",
+            "Joji",
+            "Boris Johnson",
+            "Pewdiepie"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 55,
+        "weapon": {
+            "attack": 15,
+            "range": 30
+        },
+        "radar": 95,
+        "position": [
+            934,
+            429
+        ],
+        "status": "Active"
+    },
+    "crew4": {
+        "members": [
+            "Ditto",
+            "Deadpool",
+            "Chonky Pikachu",
+            "Martin Luther"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 55,
+        "weapon": {
+            "attack": 13,
+            "range": 44
+        },
+        "radar": 96,
+        "position": [
+            865,
+            1669
+        ],
+        "status": "Active"
+    },
+    "crew5": {
+        "members": [
+            "ShitpostBot 5000",
+            "Snoop Dogg",
+            "walmart cashier",
+            "Jeff Bezos"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 56,
+        "weapon": {
+            "attack": 12,
+            "range": 32
+        },
+        "radar": 87,
+        "position": [
+            1215,
+            323
+        ],
+        "status": "Active"
+    },
+    "crew6": {
+        "members": [
+            "Scott Morrison",
+            "Simba",
+            "Homer Simpson",
+            "Phil Swift"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 51,
+        "weapon": {
+            "attack": 12,
+            "range": 37
+        },
+        "radar": 80,
+        "position": [
+            1690,
+            822
+        ],
+        "status": "Active"
+    },
+    "crew7": {
+        "members": [
+            "Sir Mix-A-Lot",
+            "Floyd Mayweather",
+            "Skrillex",
+            "Richard Nixon"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 45,
+        "weapon": {
+            "attack": 14,
+            "range": 34
+        },
+        "radar": 94,
+        "position": [
+            1519,
+            1086
+        ],
+        "status": "Active"
+    },
+    "crew8": {
+        "members": [
+            "Michael Bay",
+            "simp",
+            "Batman",
+            "green"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 57,
+        "weapon": {
+            "attack": 14,
+            "range": 43
+        },
+        "radar": 93,
+        "position": [
+            385,
+            312
+        ],
+        "status": "Active"
+    },
+    "crew9": {
+        "members": [
+            "Baby Yoda",
+            "Gordon Ramsay",
+            "Logan Paul",
+            "Jeff"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 32,
+        "weapon": {
+            "attack": 11,
+            "range": 50
+        },
+        "radar": 84,
+        "position": [
+            607,
+            1125
+        ],
+        "status": "Active"
+    },
+    "crew10": {
+        "members": [
+            "Pitbull",
+            "Keanu Reeves",
+            "BB-8",
+            "Polish man"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 56,
+        "weapon": {
+            "attack": 12,
+            "range": 30
+        },
+        "radar": 100,
+        "position": [
+            1048,
+            527
+        ],
+        "status": "Active"
+    },
+    "crew11": {
+        "members": [
+            "Dominos Pizza delivery guy",
+            "Stephen Hawking",
+            "Napoleon",
+            "Smudge"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 60,
+        "weapon": {
+            "attack": 10,
+            "range": 34
+        },
+        "radar": 97,
+        "position": [
+            1007,
+            1637
+        ],
+        "status": "Active"
+    },
+    "crew12": {
+        "members": [
+            "Donald Trump",
+            "doge",
+            "SCP-049",
+            "Ninja"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 31,
+        "weapon": {
+            "attack": 15,
+            "range": 30
+        },
+        "radar": 99,
+        "position": [
+            561,
+            1323
+        ],
+        "status": "Active"
+    },
+    "crew13": {
+        "members": [
+            "Pennywise",
+            "tiny snek",
+            "Lord Farquaad",
+            "Captain Price"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 54,
+        "weapon": {
+            "attack": 12,
+            "range": 41
+        },
+        "radar": 93,
+        "position": [
+            110,
+            482
+        ],
+        "status": "Active"
+    },
+    "crew14": {
+        "members": [
+            "DateBot 1402",
+            "Jimmy Carter",
+            "Penguin",
+            "T'Challa"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 49,
+        "weapon": {
+            "attack": 12,
+            "range": 36
+        },
+        "radar": 90,
+        "position": [
+            1419,
+            369
+        ],
+        "status": "Active"
+    },
+    "crew15": {
+        "members": [
+            "Carl Wheezer",
+            "creature from the Backrooms",
+            "Julius Caesar",
+            "Zuccerberg"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 35,
+        "weapon": {
+            "attack": 10,
+            "range": 48
+        },
+        "radar": 88,
+        "position": [
+            992,
+            297
+        ],
+        "status": "Active"
+    },
+    "crew16": {
+        "members": [
+            "Venom",
+            "Unmanned Cringe Bot",
+            "Peashooter",
+            "Thanos"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 30,
+        "weapon": {
+            "attack": 10,
+            "range": 45
+        },
+        "radar": 84,
+        "position": [
+            633,
+            752
+        ],
+        "status": "Active"
+    },
+    "crew17": {
+        "members": [
+            "tree",
+            "cheems",
+            "Britney O. Tara",
+            "Harambe"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 56,
+        "weapon": {
+            "attack": 10,
+            "range": 42
+        },
+        "radar": 96,
+        "position": [
+            1242,
+            1601
+        ],
+        "status": "Active"
+    },
+    "crew18": {
+        "members": [
+            "Young Justin Bieber",
+            "Kim Kardashian",
+            "One Punch Man",
+            "Uncle Ben"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 50,
+        "weapon": {
+            "attack": 15,
+            "range": 44
+        },
+        "radar": 99,
+        "position": [
+            1520,
+            1830
+        ],
+        "status": "Active"
+    },
+    "crew19": {
+        "members": [
+            "duck",
+            "Jerry Smith",
+            "Bernie Sanders",
+            "Winston Churchill"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 46,
+        "weapon": {
+            "attack": 14,
+            "range": 41
+        },
+        "radar": 94,
+        "position": [
+            1429,
+            1393
+        ],
+        "status": "Active"
+    },
+    "crew20": {
+        "members": [
+            "Gengis Khan",
+            "Tom Cruise",
+            "John F. Kennedy",
+            "Gabe the Dog"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 41,
+        "weapon": {
+            "attack": 13,
+            "range": 34
+        },
+        "radar": 89,
+        "position": [
+            279,
+            566
+        ],
+        "status": "Active"
+    },
+    "crew21": {
+        "members": [
+            "Frank Sinatra",
+            "Dio",
+            "Joe Biden",
+            "crippling depression"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 49,
+        "weapon": {
+            "attack": 13,
+            "range": 42
+        },
+        "radar": 99,
+        "position": [
+            523,
+            1185
+        ],
+        "status": "Active"
+    },
+    "crew22": {
+        "members": [
+            "Obama",
+            "Ken Jeong",
+            "Rick Astley",
+            "Luigi"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 42,
+        "weapon": {
+            "attack": 15,
+            "range": 39
+        },
+        "radar": 94,
+        "position": [
+            115,
+            225
+        ],
+        "status": "Active"
+    },
+    "crew23": {
+        "members": [
+            "Ricardo Milos",
+            "Patrick Star",
+            "Rihanna",
+            "Harold"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 39,
+        "weapon": {
+            "attack": 13,
+            "range": 43
+        },
+        "radar": 81,
+        "position": [
+            1853,
+            1832
+        ],
+        "status": "Active"
+    },
+    "crew24": {
+        "members": [
+            "Rowlet",
+            "Optimus Prime",
+            "Kermit the Frog",
+            "Jair Bolsonaro"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 31,
+        "weapon": {
+            "attack": 11,
+            "range": 31
+        },
+        "radar": 83,
+        "position": [
+            982,
+            537
+        ],
+        "status": "Active"
+    },
+    "crew25": {
+        "members": [
+            "Markiplier",
+            "Kim Jong-Un",
+            "Putin",
+            "Anthony Fantano"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 53,
+        "weapon": {
+            "attack": 13,
+            "range": 30
+        },
+        "radar": 99,
+        "position": [
+            794,
+            1416
+        ],
+        "status": "Active"
+    },
+    "crew26": {
+        "members": [
+            "Elon Musk",
+            "V-Sauce Michael",
+            "Your mom",
+            "Spongebob"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 49,
+        "weapon": {
+            "attack": 12,
+            "range": 42
+        },
+        "radar": 94,
+        "position": [
+            1267,
+            1793
+        ],
+        "status": "Active"
+    },
+    "crew27": {
+        "members": [
+            "Piplup",
+            "crab",
+            "Socrates",
+            "Sans"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 48,
+        "weapon": {
+            "attack": 15,
+            "range": 45
+        },
+        "radar": 82,
+        "position": [
+            1076,
+            718
+        ],
+        "status": "Active"
+    },
+    "crew28": {
+        "members": [
+            "John Oliver",
+            "Lil Pump",
+            "CEO of Racism",
+            "Karen"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 47,
+        "weapon": {
+            "attack": 14,
+            "range": 43
+        },
+        "radar": 90,
+        "position": [
+            406,
+            1765
+        ],
+        "status": "Active"
+    },
+    "crew29": {
+        "members": [
+            "Austin Powers",
+            "gamer girl",
+            "Kanye West",
+            "Justin Trudeau"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 32,
+        "weapon": {
+            "attack": 14,
+            "range": 40
+        },
+        "radar": 94,
+        "position": [
+            1265,
+            1797
+        ],
+        "status": "Active"
+    },
+    "crew30": {
+        "members": [
+            "Terminator",
+            "Eminem",
+            "Greta Thunberg",
+            "Shrek"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 52,
+        "weapon": {
+            "attack": 15,
+            "range": 35
+        },
+        "radar": 84,
+        "position": [
+            1171,
+            131
+        ],
+        "status": "Active"
+    },
+    "crew31": {
+        "members": [
+            "NASA",
+            "Kylie Jenner",
+            "Franklin Clinton",
+            "Michael Rosen"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 43,
+        "weapon": {
+            "attack": 12,
+            "range": 30
+        },
+        "radar": 94,
+        "position": [
+            525,
+            820
+        ],
+        "status": "Active"
+    },
+    "crew32": {
+        "members": [
+            "Agent 47",
+            "Queen Elizabeth",
+            "Peter Griffin",
+            "Kizuna AI"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 47,
+        "weapon": {
+            "attack": 13,
+            "range": 35
+        },
+        "radar": 90,
+        "position": [
+            464,
+            408
+        ],
+        "status": "Active"
+    },
+    "crew33": {
+        "members": [
+            "Carl the Hedgehog",
+            "Stalin",
+            "Sonic",
+            "Bill Clinton"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 30,
+        "weapon": {
+            "attack": 14,
+            "range": 37
+        },
+        "radar": 99,
+        "position": [
+            1454,
+            1679
+        ],
+        "status": "Active"
+    },
+    "crew34": {
+        "members": [
+            "Pepe frog",
+            "Bongo Cat",
+            "Minecraft Steve",
+            "Walter"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 46,
+        "weapon": {
+            "attack": 14,
+            "range": 47
+        },
+        "radar": 93,
+        "position": [
+            1318,
+            1649
+        ],
+        "status": "Active"
+    },
+    "crew35": {
+        "members": [
+            "Neil deGrasse Tyson",
+            "Florida Man",
+            "Karl Marx",
+            "Johnny Bravo"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 51,
+        "weapon": {
+            "attack": 15,
+            "range": 36
+        },
+        "radar": 83,
+        "position": [
+            961,
+            1598
+        ],
+        "status": "Active"
+    },
+    "crew36": {
+        "members": [
+            "Jon Stewart",
+            "Squidward",
+            "Big Shaq",
+            "Angus"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 32,
+        "weapon": {
+            "attack": 15,
+            "range": 35
+        },
+        "radar": 92,
+        "position": [
+            1442,
+            639
+        ],
+        "status": "Active"
+    },
+    "crew37": {
+        "members": [
+            "Dr. Phil",
+            "chad",
+            "Jay Z",
+            "Ben Shapiro"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 45,
+        "weapon": {
+            "attack": 11,
+            "range": 49
+        },
+        "radar": 88,
+        "position": [
+            495,
+            1413
+        ],
+        "status": "Active"
+    },
+    "crew38": {
+        "members": [
+            "Pornhub CEO",
+            "DanceBot",
+            "Hatsune Miku",
+            "Ugandan Knuckles"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 36,
+        "weapon": {
+            "attack": 13,
+            "range": 38
+        },
+        "radar": 95,
+        "position": [
+            530,
+            1389
+        ],
+        "status": "Active"
+    },
+    "crew39": {
+        "members": [
+            "Ronald McDonald",
+            "Jeb Bush",
+            "Donald Glover",
+            "cute loli"
+        ],
+        "food": 100,
+        "water": 100,
+        "oxygen": 100,
+        "pressure": 100,
+        "speed": 37,
+        "weapon": {
+            "attack": 13,
+            "range": 40
+        },
+        "radar": 86,
+        "position": [
+            616,
+            1610
+        ],
+        "status": "Active"
+    }
+}
